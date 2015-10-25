@@ -109,7 +109,7 @@
     
     profile.view.backgroundColor = [UIColor lightGrayColor];
     
-
+    NSLog(@"========%@", @"text");
     
 }
 
